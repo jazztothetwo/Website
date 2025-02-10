@@ -1,0 +1,18 @@
+body {
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  position: relative;
+  z-index: 1;
+  height: 3rem;
+}
+
+.nav {
+  background-color: #fff;
+  color: #d21f1f;
+  display: flex;
+}
